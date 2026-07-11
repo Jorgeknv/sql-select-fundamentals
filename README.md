@@ -78,6 +78,7 @@ from sales;
 La columna continúa llamándose `total_amount` dentro de PostgreSQL, pero el resultado se presenta como:
 
 | monto_total |
+|---:|
 | 2400.00 |
 | 140.00 |
 | 450.00 |
